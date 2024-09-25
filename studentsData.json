@@ -16,6 +16,168 @@
       "linkedin": "https://linkedin.com/in/alicejohnson",
       "resume": "https://example.com/alicejohnson-resume",
       "image": "https://via.placeholder.com/150"
-    }
+    },
+    {
+        "name": "John Smith",
+        "role": "Web Developer",
+        "skills": ["HTML", "CSS", "JavaScript", "React"],
+        "github": "https://github.com/johnsmith",
+        "linkedin": "https://linkedin.com/in/johnsmith",
+        "resume": "https://example.com/johnsmith-resume",
+        "image": "https://via.placeholder.com/150/FF5733/FFFFFF?text=John+Smith"
+    },
+    {
+        "name": "Emma Brown",
+        "role": "Software Engineer",
+        "skills": ["Java", "Spring Boot", "REST APIs", "Microservices"],
+        "github": "https://github.com/emmabrown",
+        "linkedin": "https://linkedin.com/in/emmabrown",
+        "resume": "https://example.com/emmabrown-resume",
+        "image": "https://via.placeholder.com/150/33FF57/FFFFFF?text=Emma+Brown"
+    },
+    {
+        "name": "Michael Davis",
+        "role": "Data Analyst",
+        "skills": ["Excel", "SQL", "Tableau", "R"],
+        "github": "https://github.com/michaeldavis",
+        "linkedin": "https://linkedin.com/in/michaeldavis",
+        "resume": "https://example.com/michaeldavis-resume",
+        "image": "https://via.placeholder.com/150/3357FF/FFFFFF?text=Michael+Davis"
+    },
+    {
+        "name": "Sophia Wilson",
+        "role": "Graphic Designer",
+        "skills": ["Adobe Photoshop", "Illustrator", "Figma", "UI/UX"],
+        "github": "https://github.com/sophiawilson",
+        "linkedin": "https://linkedin.com/in/sophiawilson",
+        "resume": "https://example.com/sophiawilson-resume",
+        "image": "https://via.placeholder.com/150/FF33A6/FFFFFF?text=Sophia+Wilson"
+    },
+    {
+        "name": "James Taylor",
+        "role": "DevOps Engineer",
+        "skills": ["Docker", "Kubernetes", "AWS", "CI/CD"],
+        "github": "https://github.com/jamestaylor",
+        "linkedin": "https://linkedin.com/in/jamestaylor",
+        "resume": "https://example.com/jamestaylor-resume",
+        "image": "https://via.placeholder.com/150/33FFA6/FFFFFF?text=James+Taylor"
+    },
+    {
+        "name": "Olivia Martinez",
+        "role": "Product Manager",
+        "skills": ["Agile", "Scrum", "Roadmapping", "Market Research"],
+        "github": "https://github.com/oliviamartinez",
+        "linkedin": "https://linkedin.com/in/oliviamartinez",
+        "resume": "https://example.com/oliviamartinez-resume",
+        "image": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Olivia+Martinez"
+    },
+    {
+        "name": "Lucas Anderson",
+        "role": "Network Administrator",
+        "skills": ["TCP/IP", "VPN", "Firewalls", "Cisco"],
+        "github": "https://github.com/lucasanderson",
+        "linkedin": "https://linkedin.com/in/lucasanderson",
+        "resume": "https://example.com/lucasanderson-resume",
+        "image": "https://via.placeholder.com/150/3357FF/FFFFFF?text=Lucas+Anderson"
+    },
+    {
+        "name": "Ava White",
+        "role": "Mobile App Developer",
+        "skills": ["Swift", "Kotlin", "Flutter", "React Native"],
+        "github": "https://github.com/avawhite",
+        "linkedin": "https://linkedin.com/in/avawhite",
+        "resume": "https://example.com/avawhite-resume",
+        "image": "https://via.placeholder.com/150/FF33A6/FFFFFF?text=Ava+White"
+    },
+    {
+        "name": "Ethan Harris",
+        "role": "Cybersecurity Specialist",
+        "skills": ["Penetration Testing", "Network Security", "Risk Assessment", "SIEM"],
+        "github": "https://github.com/ethanharris",
+        "linkedin": "https://linkedin.com/in/ethanharris",
+        "resume": "https://example.com/ethanharris-resume",
+        "image": "https://via.placeholder.com/150/33FFA6/FFFFFF?text=Ethan+Harris"
+    },
+    {
+        "name": "Isabella Clark",
+        "role": "Content Writer",
+        "skills": ["SEO", "Copywriting", "Blogging", "Research"],
+        "github": "https://github.com/isabellaclark",
+        "linkedin": "https://linkedin.com/in/isabellaclark",
+        "resume": "https://example.com/isabellaclark-resume",
+        "image": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Isabella+Clark"
+    },
+    {
+        "name": "Mason Young",
+        "role": "Database Administrator",
+        "skills": ["MySQL", "PostgreSQL", "MongoDB", "Database Design"],
+        "github": "https://github.com/masonyoung",
+        "linkedin": "https://linkedin.com/in/masonyoung",
+        "resume": "https://example.com/masonyoung-resume",
+        "image": "https://via.placeholder.com/150/3357FF/FFFFFF?text=Mason+Young"
+    },
+    {
+        "name": "Mia King",
+        "role": "SEO Specialist",
+        "skills": ["Keyword Research", "On-Page SEO", "Backlinking", "Analytics"],
+        "github": "https://github.com/miaking",
+        "linkedin": "https://linkedin.com/in/miaking",
+        "resume": "https://example.com/miaking-resume",
+        "image": "https://via.placeholder.com/150/FF33A6/FFFFFF?text=Mia+King"
+    },
+    {
+        "name": "Noah Lee",
+        "role": "Cloud Engineer",
+        "skills": ["Azure", "GCP", "Cloud Architecture", "Terraform"],
+        "github": "https://github.com/noahlee",
+        "linkedin": "https://linkedin.com/in/noahlee",
+        "resume": "https://example.com/noahlee-resume",
+        "image": "https://via.placeholder.com/150/33FFA6/FFFFFF?text=Noah+Lee"
+    },
+    {
+        "name": "Liam Walker",
+        "role": "Game Developer",
+        "skills": ["Unity", "C#", "Game Design", "3D Modeling"],
+        "github": "https://github.com/liamwalker",
+        "linkedin": "https://linkedin.com/in/liamwalker",
+        "resume": "https://example.com/liamwalker-resume",
+        "image": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Liam+Walker"
+    },
+    {
+        "name": "Ella Hall",
+        "role": "Business Analyst",
+        "skills": ["Data Analysis", "Business Modeling", "Stakeholder Management", "Agile"],
+        "github": "https://github.com/ellahall",
+        "linkedin": "https://linkedin.com/in/ellahall",
+        "resume": "https://example.com/ellahall-resume",
+        "image": "https://via.placeholder.com/150/3357FF/FFFFFF?text=Ella+Hall"
+    },
+    {
+        "name": "Aiden Allen",
+        "role": "Digital Marketing Specialist",
+        "skills": ["Social Media", "Content Strategy", "Email Marketing", "Analytics"],
+        "github": "https://github.com/aidenallen",
+        "linkedin": "https://linkedin.com/in/aidenallen",
+        "resume": "https://example.com/aidenallen-resume",
+        "image": "https://via.placeholder.com/150/FF33A6/FFFFFF?text=Aiden+Allen"
+    },
+    {
+        "name": "Grace Nelson",
+        "role": "Systems Analyst",
+        "skills": ["System Design", "Technical Support", "Data Migration", "Documentation"],
+        "github": "https://github.com/gracenelson",
+        "linkedin": "https://linkedin.com/in/gracenelson",
+        "resume": "https://example.com/gracenelson-resume",
+        "image": "https://via.placeholder.com/150/33FFA6/FFFFFF?text=Grace+Nelson"
+    },
+    {
+        "name": "Samuel Wright",
+        "role": "Machine Learning Engineer",
+        "skills": ["TensorFlow", "Keras", "NLP", "Data Preprocessing"],
+        "github": "https://github.com/samuelwright",
+        "linkedin": "https://linkedin.com/in/samuelwright",
+        "resume": "https://example.com/samuelwright-resume",
+        "image": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Samuel+Wright"
+    },
   ]
   
