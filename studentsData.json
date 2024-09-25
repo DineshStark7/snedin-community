@@ -1,0 +1,21 @@
+[
+    {
+      "name": "John Doe",
+      "role": "Full Stack Developer",
+      "skills": ["React", "Node.js", "MongoDB", "CSS"],
+      "github": "https://github.com/johndoe",
+      "linkedin": "https://linkedin.com/in/johndoe",
+      "resume": "https://example.com/johndoe-resume",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Alice Johnson",
+      "role": "Data Scientist",
+      "skills": ["Python", "Machine Learning", "Pandas", "SQL"],
+      "github": "https://github.com/alicejohnson",
+      "linkedin": "https://linkedin.com/in/alicejohnson",
+      "resume": "https://example.com/alicejohnson-resume",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+  
